@@ -1,0 +1,12 @@
+package com.sathya.servlet;
+
+public class product {
+private String proId;
+private String proName;
+private double proPrice;
+private String proBrand;
+private String proMadeIn;
+private String proMfgDate;
+private String proExpDate;
+private InputStream proImage;
+}

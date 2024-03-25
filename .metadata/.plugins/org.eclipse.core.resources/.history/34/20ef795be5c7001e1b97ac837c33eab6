@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration App...</title>
+</head>
+<body bgcolor="pink">
+<h1>Registration Form</h1>
+ <form method="get" action="./RegistrationServlet">
+    <label>Username</label>
+    <input type="text" name="username" required/>
+    <br><br>
+    <label>Password</label>
+    <input type="password" name="password" required/>
+    <br><br>
+    <label></label>
+    <input type="text" name="username" required/>
+    <br><br>
+    
+
+</body>
+</html>

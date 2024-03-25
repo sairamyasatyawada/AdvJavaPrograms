@@ -1,0 +1,31 @@
+package com.sathya.servlet;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/RegistrationServlet")
+public class RegistrationServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    public RegistrationServlet() {
+     
+
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		String Username=request.getParameter("username");
+		String Password=request.getParameter("password");
+		long mobile=Long.parseLong(request.getParameter("mobile"));
+		String email=request.getParameter("email");
+		String gender=request.getParameter("gender");
+		String dob=request.getParameter("dob");
+		String[] quals=request.getParameter("quals");
+		
+}
+}
+}
+

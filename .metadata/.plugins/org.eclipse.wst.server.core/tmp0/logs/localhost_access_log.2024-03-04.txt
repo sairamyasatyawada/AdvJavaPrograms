@@ -1,0 +1,6 @@
+127.0.0.1 - - [04/Mar/2024:22:49:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:22:49:32 +0530] "GET /ProductManagerApp/add-project.html HTTP/1.1" 200 2203
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:22:49:32 +0530] "GET /ProductManagerApp/formvalidation.js HTTP/1.1" 200 13
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:22:49:32 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:22:58:58 +0530] "GET /ProductManagerApp/add-project.html HTTP/1.1" 200 2866
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:22:58:59 +0530] "GET /ProductManagerApp/formvalidation.js HTTP/1.1" 304 -

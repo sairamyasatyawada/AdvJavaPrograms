@@ -1,0 +1,6 @@
+127.0.0.1 - - [13/Mar/2024:15:45:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:45:12 +0530] "GET /ProductManagementApp/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:45:12 +0530] "GET /ProductManagementApp/formvalidation.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:45:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:46:00 +0530] "GET /ProductManagementApp/ProductList.jsp HTTP/1.1" 200 917305
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:46:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
